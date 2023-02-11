@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Idkwhatudoin/RegenUtilities/Main-Stuff/MainThings/Regen/Loader.lua",true))()
